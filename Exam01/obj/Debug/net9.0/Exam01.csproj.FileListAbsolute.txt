@@ -1,0 +1,14 @@
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\bin\Debug\net9.0\Exam01.exe
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\bin\Debug\net9.0\Exam01.deps.json
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\bin\Debug\net9.0\Exam01.runtimeconfig.json
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\bin\Debug\net9.0\Exam01.dll
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\bin\Debug\net9.0\Exam01.pdb
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\Exam01.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\Exam01.AssemblyInfoInputs.cache
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\Exam01.AssemblyInfo.cs
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\Exam01.csproj.CoreCompileInputs.cache
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\Exam01.dll
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\refint\Exam01.dll
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\Exam01.pdb
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\Exam01.genruntimeconfig.cache
+D:\C# Basic.NET\c#Exam\Exam01\Exam01\obj\Debug\net9.0\ref\Exam01.dll
